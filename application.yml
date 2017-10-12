@@ -1,0 +1,3 @@
+configserver: true
+bus: true
+greeting: Ohai
