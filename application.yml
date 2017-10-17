@@ -1,3 +1,6 @@
 configserver: true
 bus: true
 greeting: new greeting from arlene s!
+eureka:
+  instance:
+    leaseRenewalIntervalInSeconds: 10
